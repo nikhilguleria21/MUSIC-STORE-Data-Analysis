@@ -1,0 +1,5 @@
+Now this Music company is growing over world wide across several countries, so now the company wants to accelerate its business more.
+Music company wants the most popular music Genre for each country with the highest amount of purchases.
+We want to find out the most popular music Genre for each country. We determine the most popular genre as the genre 
+with the highest amount of purchases. By using SQL query that returns each country along with the top Genre. For countries where 
+the maximum number of purchases is shared return all Genres.

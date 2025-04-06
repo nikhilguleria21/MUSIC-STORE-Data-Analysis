@@ -1,0 +1,4 @@
+Now the Music company wants to study the pattern of their customers based on countries so that they can promote their albums there and gain more profit.
+We have to determines the customer that has spent the most on music for each country. 
+Also needs to returns the country along with the top customer and how much they spent. 
+For countries where the top amount spent is shared, provide all customers who spent this amount. 

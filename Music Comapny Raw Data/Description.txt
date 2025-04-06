@@ -1,0 +1,2 @@
+This folder contains the raw data & schema diagram of Music company that we need to pick for our analysis purpose so that we can predict the profit
+and the areas where works need to be done.

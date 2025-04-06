@@ -1,0 +1,2 @@
+Here, Music company wants to fetch the name of its best performing artists.
+We need to fetch amount spent by each customer on artists with customer name, artist name and total spent.

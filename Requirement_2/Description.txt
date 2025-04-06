@@ -1,0 +1,3 @@
+As per Business need , Music company wants to invite the artists who have written the most rock music.
+So we need to fetch data with Artist name and total track count of the top 10 rock bands.
+

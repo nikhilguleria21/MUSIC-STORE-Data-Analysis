@@ -1,0 +1,3 @@
+Music company wants to arrange a charity concert on the city where it has best customers.
+We need to retrieve the one city that has the highest sum of invoice totals.
+

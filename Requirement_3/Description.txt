@@ -1,0 +1,3 @@
+As per Business need, Music company wants to fetch the details of those songs whose length is greater than the average length.
+By using SQL logic logic we need to fetch those data.
+
